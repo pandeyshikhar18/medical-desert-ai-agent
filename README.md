@@ -69,11 +69,13 @@ streamlit run app.py
 
 ### 🔹 Streamlit Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboardmedical.png)
 
 ### 🔹 Databricks Processing
 
-![Databricks](databricks.png)
+![Databricks](databrickscode1.png)
+![Databricks](databrickscode2.png)
+
 
 ---
 
