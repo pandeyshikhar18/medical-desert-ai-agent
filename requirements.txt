@@ -1,6 +1,6 @@
+streamlit==1.36.0
+pandas==2.2.2
+pydantic==2.8.2
+rapidfuzz==3.9.6
+plotly==5.23.0
 python-dateutil==2.9.0.post0
-streamlit==1.32.0
-pandas==2.1.4
-plotly==5.18.0
-pydantic==2.6.4
-rapidfuzz==3.6.1
